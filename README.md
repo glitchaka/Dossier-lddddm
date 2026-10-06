@@ -2,7 +2,7 @@
 
 > **Documento interno de desarrollo. Contiene spoilers completos.**
 
-## Resumen mínimo
+## Resumen
 
 En Puerto Ámbar, durante el carnaval que abre la primavera, el investigador Diego de Montemar encuentra un cadáver imposible de encajar en una explicación ordinaria. Lo que comienza como una investigación ligada a los restos de la Guerra de los Reinos Intermedios se convierte en una red de asesinatos, antiguas prácticas, mancias y relaciones personales que empujan a Diego a interpretar correctamente hechos verdaderos puestos, una y otra vez, sobre la persona equivocada.
 
@@ -12,7 +12,7 @@ La novela trabaja una **retención deliberada de lo fantástico**: primero ofrec
 
 ## Wiki
 
-| Área | Resumen mínimo | Página |
+| Área | Resumen | Página |
 |---|---|---|
 | Historia | Premisa, conflicto principal y recorrido general del arco de Puerto Ámbar. | [Historia](docs/historia.md) |
 | Personajes | Diego, Alvargio, Alessandra, José/Rilen, Lài y el resto del reparto principal. | [Personajes](docs/personajes.md) |
